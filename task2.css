@@ -1,0 +1,56 @@
+.whole{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    
+}
+.first{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: grey;
+    justify-content: center;
+    height: 800px;
+    width: 20%;
+}
+.second{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    height: 600px;
+}
+.head{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:greenyellow;
+    justify-content: center;
+    height: 200px;
+    width: 100%;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    flex-direction: column;
+}
+.art{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: antiquewhite;
+    height:400px ;   
+}
+.foot{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: greenyellow;
+    height:200px ;    
+}
+.side{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: grey;
+    justify-content: center;
+    height: 600px;
+    width: 20%;
+    justify-content: center;
+}
